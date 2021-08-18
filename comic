@@ -1,0 +1,25 @@
+{
+  "title": "<W4R - Campfire>",
+  "description": "<placeholder>",
+  "artist": "<too many to name here>",
+  "author": "<many>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter 1>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<FYJLNIP>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter 2>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<JP5DVEC>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
